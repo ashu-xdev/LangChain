@@ -13,7 +13,7 @@ Steps to replicate this example:
 4. Install the Google Cloud CLI on your computer
     - https://cloud.google.com/sdk/docs/install
     - Authenticate the Google Cloud CLI with your Google account
-        - https://cloud.google.com/docs/authentication/provide-credentials-adc#local-dev
+        - https://cloud.google.com/docs/authentication/provide-credentials-adc#local-dev?authuser=1
     - Set your default project to the new Firebase project you created
 5. pip install langchain-google-firestore
 6. Enable the Firestore API in the Google Cloud Console:
