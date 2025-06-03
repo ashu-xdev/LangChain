@@ -63,4 +63,5 @@ chain = (
 # Run the chain
 result = chain.invoke({"movie_name": "Inception"})
 
+#print result
 print(result)
