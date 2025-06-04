@@ -50,7 +50,6 @@ else:
 
 
 
-
-# Questions to ask
+## Questions to ask on bot
 # Who is the Ring-bearer?
 # Where does Gandalf meet Frodo?
