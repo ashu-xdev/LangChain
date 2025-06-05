@@ -34,6 +34,8 @@ for i, doc in enumerate(relevant_docs, 1):
     print(f"Source: {doc.metadata['source']}\n")
 
 
+##OLD code for different implementation
+
 # combined_input = (
 #     "Here are some documents that might help answer the question: "
 #     + query
